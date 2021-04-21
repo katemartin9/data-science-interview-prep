@@ -3,10 +3,10 @@
 Main language: Python
 
 ## Statistics
-- [x] [Distributions]()
+- [x] [Distributions](distributions/distributions.ipynb)
 - [ ] Theorems
-- [ ] Paradoxes
-- [ ] Bayesian statistics
+- [x] Paradoxes
+- [ ] Bayesian statistics (conjugate prior)
 - [ ] Frequentist statistics
 - [ ] Hypothesis testing and Inference
 - [ ] Causal Inference
@@ -20,7 +20,7 @@ Main language: Python
 - [ ] Support Vector Machines
 - [ ] Naive Bayes
 - [ ] kNN
-- [ ] K-Means
+- [ ] Clustering Algorithms
 - [ ] Dimensionality Reduction Algorithms
 - [ ] Random Forest
 - [ ] Gradient Boosting Algorithms (GBM, XGBoost, AdaBoost, CatBoost)

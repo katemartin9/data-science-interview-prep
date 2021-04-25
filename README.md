@@ -11,6 +11,7 @@ Main language: Python
 - [ ] Hypothesis testing and Inference
 - [ ] Causal Inference
 - [ ] Simulation
+- [ ] Feature Selection
 
 ## Machine Learning Algorithms
 
